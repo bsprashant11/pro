@@ -1,11 +1,6 @@
 ##This is git tutorials by JKy
 ##Sensor fault detection
-<<<<<<< HEAD
 ##Project code-1fsdfhn;oon
+## Product identity
 
 
-=======
-## Project code-1
-##product codesgfrthd
-joisdbvj o
->>>>>>> developer1
