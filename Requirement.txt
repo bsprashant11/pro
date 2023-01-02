@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 numpy
 pandas
+=======
+pandas
+numpy
+seaborn
+matplotlib
+>>>>>>> developer1
